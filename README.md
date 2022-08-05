@@ -14,6 +14,6 @@ I create pentest tools and CTF tasks.
 
 # Certifications
 
-[![HJSP](https://img.shields.io/badge/HJSP-Gold-gold.svg)](app.hacktory.ai/certificates/eb4c1e16-9a2c-4988-a53e-c622c7a80424)
+[![HJSP](https://img.shields.io/badge/HJSP-Gold-gold.svg)](https://app.hacktory.ai/certificates/eb4c1e16-9a2c-4988-a53e-c622c7a80424)
 
-[![HWSP](https://img.shields.io/badge/HWSP-Silver-silver.svg)](app.hacktory.ai/certificates/0e084244-d72e-476f-a2a5-84bc3df6982b)
+[![HWSP](https://img.shields.io/badge/HWSP-Silver-silver.svg)](https://app.hacktory.ai/certificates/0e084244-d72e-476f-a2a5-84bc3df6982b)
