@@ -6,11 +6,11 @@ I create pentest tools and CTF tasks.
 
 # Currently working on: 
 
-[![SSTImap](https://img.shields.io/badge/SSTImap-v1.1-green.svg?logo=github)](https://github.com/vladko312/sstimap)
+[![SSTImap](https://img.shields.io/badge/SSTImap-v1.2-green.svg?logo=github)](https://github.com/vladko312/sstimap)
 
 # My projects
 
-[![SSTImap](https://img.shields.io/badge/SSTImap-v1.1-green.svg?logo=github)](https://github.com/vladko312/sstimap) - Automatic SSTI detection tool with interactive interface
+[![SSTImap](https://img.shields.io/badge/SSTImap-v1.2-green.svg?logo=github)](https://github.com/vladko312/sstimap) - Automatic SSTI detection tool with interactive interface
 
 # Certifications
 
