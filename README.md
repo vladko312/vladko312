@@ -12,6 +12,8 @@ I create pentest tools and CTF tasks.
 
 [![SSTImap](https://img.shields.io/badge/SSTImap-v1.2-green.svg?logo=github)](https://github.com/vladko312/sstimap) - Automatic SSTI detection tool with interactive interface
 
+[![SSTImap Extra Plugins](https://img.shields.io/badge/SSTImap%20Extras-v1.2-green.svg?logo=github)](https://github.com/vladko312/extras) - Situational extra plugins for SSTImap
+
 # Certifications
 
 [![HJSP](https://img.shields.io/badge/HJSP-Gold-gold.svg)](https://app.hacktory.ai/certificates/eb4c1e16-9a2c-4988-a53e-c622c7a80424)
