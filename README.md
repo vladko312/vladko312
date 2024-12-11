@@ -14,6 +14,8 @@ I create pentest tools and CTF tasks.
 
 [![SSTImap Extra Plugins](https://img.shields.io/badge/SSTImap%20Extras-v1.2-green.svg?logo=github)](https://github.com/vladko312/extras) - Situational extra plugins for SSTImap
 
+[![FlaskProx](https://img.shields.io/badge/FlaskProx-v1.0-green.svg?logo=github)](https://github.com/vladko312/FlaskProx) - A simple transparent HTTP proxy using Flask
+
 # Certifications
 
 [![HJSP](https://img.shields.io/badge/HJSP-Gold-gold.svg)](https://app.hacktory.ai/certificates/eb4c1e16-9a2c-4988-a53e-c622c7a80424)
