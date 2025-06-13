@@ -6,8 +6,9 @@ I create pentest tools and CTF tasks.
 
 # Currently working on: 
 
-[![SSTImap](https://img.shields.io/badge/SSTImap-v1.2-green.svg?logo=github)](https://github.com/vladko312/sstimap)
-[![v380 IP camera](https://img.shields.io/badge/v380_IP_camera-v1.0-blue)](https://github.com/vladko312/Research_v380_IP_camera)
+[![SSTImap](https://img.shields.io/badge/SSTImap-v1.3-green.svg?logo=github)](https://github.com/vladko312/sstimap)
+[![SSTImap Extra Plugins](https://img.shields.io/badge/SSTImap%20Extras-v1.3-green.svg?logo=github)](https://github.com/vladko312/extras)
+[![In progress...](https://img.shields.io/badge/In_progress...-v1.0-blue)](https://github.com/vladko312/)
 
 # My projects
 
@@ -18,6 +19,8 @@ I create pentest tools and CTF tasks.
 [![FlaskProx](https://img.shields.io/badge/FlaskProx-v1.0-green.svg?logo=github)](https://github.com/vladko312/FlaskProx) - A simple transparent HTTP proxy using Flask
 
 # My research
+
+[![In progress...](https://img.shields.io/badge/In_progress...-v1.0-blue)](https://github.com/vladko312/) - SSTI-related research (details will be published later)
 
 [![v380 IP camera](https://img.shields.io/badge/v380_IP_camera-v1.0-blue)](https://github.com/vladko312/Research_v380_IP_camera) - Learning IoT hacking and looking for vulns in my IP camera
 
