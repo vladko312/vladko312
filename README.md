@@ -8,7 +8,7 @@ I create pentest tools and CTF tasks.
 
 [![SSTImap](https://img.shields.io/badge/SSTImap-v1.3-green.svg?logo=github)](https://github.com/vladko312/sstimap)
 [![SSTImap Extra Plugins](https://img.shields.io/badge/SSTImap%20Extras-v1.3-green.svg?logo=github)](https://github.com/vladko312/extras)
-[![Successful Errors](https://img.shields.io/badge/Successful%20Errors-v1.1-blue)](https://github.com/vladko312/)
+[![Successful Errors](https://img.shields.io/badge/Successful%20Errors-v1.1-blue)](https://github.com/vladko312/Research_Successful_Errors)
 
 # My projects
 
@@ -20,7 +20,7 @@ I create pentest tools and CTF tasks.
 
 # My research
 
-[![Successful Errors](https://img.shields.io/badge/Successful%20Errors-v1.0-blue)](https://github.com/vladko312/) - New Code Injection and SSTI techniques (will be published later)
+[![Successful Errors](https://img.shields.io/badge/Successful%20Errors-v1.0-blue)](https://github.com/vladko312/Research_Successful_Errors) - New Code Injection and SSTI techniques
 
 [![v380 IP camera](https://img.shields.io/badge/v380_IP_camera-v1.0-blue)](https://github.com/vladko312/Research_v380_IP_camera) - Learning IoT hacking and looking for vulns in my IP camera
 
