@@ -23,6 +23,8 @@ I create pentest tools and CTF tasks.
 
 [![In progress...](https://img.shields.io/badge/In_progress...-v1.0-blue)](https://github.com/vladko312/) - SSTI-related research (details will be published later)
 
+[![CVE-2026-46640](https://img.shields.io/badge/CVE--2026--46640-v1.0-purple)](https://gist.github.com/vladko312/39507beaa58eacf3b62e6a6e6cd69128) - Writeup about developing payloads for CVE-2026-46640
+
 [![Successful Errors](https://img.shields.io/badge/Successful%20Errors-v1.1-blue)](https://github.com/vladko312/Research_Successful_Errors) - New Code Injection and SSTI techniques
 
 [![v380 IP camera](https://img.shields.io/badge/v380_IP_camera-v1.0-blue)](https://github.com/vladko312/Research_v380_IP_camera) - Learning IoT hacking and looking for vulns in my IP camera
