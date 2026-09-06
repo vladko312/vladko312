@@ -6,14 +6,14 @@ I create pentest tools and CTF tasks.
 
 # Currently working on: 
 
-[![SSTImap](https://img.shields.io/badge/SSTImap-v1.3-green.svg?logo=github)](https://github.com/vladko312/sstimap)
-[![SSTImap Extra Plugins](https://img.shields.io/badge/SSTImap%20Extras-v1.3-green.svg?logo=github)](https://github.com/vladko312/extras)
+[![SSTImap](https://img.shields.io/badge/SSTImap-v1.4-green.svg?logo=github)](https://github.com/vladko312/sstimap)
+[![SSTImap Extra Plugins](https://img.shields.io/badge/SSTImap%20Extras-v1.4-green.svg?logo=github)](https://github.com/vladko312/extras)
 [![Successful Errors](https://img.shields.io/badge/Successful%20Errors-v1.2-blue)](https://github.com/vladko312/Research_Successful_Errors)
-[![In progress...](https://img.shields.io/badge/In_progress...-v1.0-blue)](https://github.com/vladko312/)
+[![Logic-less Assumptions](https://img.shields.io/badge/Logic--less%20Assumptions-v1.0-blue)](https://github.com/vladko312/)
 
 # My projects
 
-[![SSTImap](https://img.shields.io/badge/SSTImap-v1.3-green.svg?logo=github)](https://github.com/vladko312/sstimap) - Automatic SSTI detection tool with interactive interface
+[![SSTImap](https://img.shields.io/badge/SSTImap-v1.4-green.svg?logo=github)](https://github.com/vladko312/sstimap) - Automatic SSTI detection tool with interactive interface
 
 [![SSTImap Extra Plugins](https://img.shields.io/badge/SSTImap%20Extras-v1.3-green.svg?logo=github)](https://github.com/vladko312/extras) - Situational extra plugins for SSTImap
 
@@ -21,7 +21,7 @@ I create pentest tools and CTF tasks.
 
 # My research
 
-[![In progress...](https://img.shields.io/badge/In_progress...-v1.0-blue)](https://github.com/vladko312/) - SSTI-related research (details will be published later)
+[![Logic-less Assumptions](https://img.shields.io/badge/Logic--less%20Assumptions-v1.0-blue)](https://github.com/vladko312/) - Looking for RCE in Safe Template Engines (details will be published later)
 
 [![CVE-2026-46640](https://img.shields.io/badge/CVE--2026--46640-v1.0-purple)](https://gist.github.com/vladko312/39507beaa58eacf3b62e6a6e6cd69128) - Writeup about developing payloads for CVE-2026-46640
 
@@ -29,7 +29,11 @@ I create pentest tools and CTF tasks.
 
 [![v380 IP camera](https://img.shields.io/badge/v380_IP_camera-v1.0-blue)](https://github.com/vladko312/Research_v380_IP_camera) - Learning IoT hacking and looking for vulns in my IP camera
 
-# Vulns I registered
+# [Vulns I registered](https://github.com/vladko312/advisories)
+
+[![GHSA-5hrj-7fc3-cmx9](https://img.shields.io/badge/GHSA--5hrj--7fc3--cmx9-9.8-red)](https://github.com/mustache/mustache/security/advisories/GHSA-5hrj-7fc3-cmx9) - RCE in Mustache for Ruby using built-in method access
+
+[![Pybars3 RCE](https://img.shields.io/badge/Pybars3--RCE-9.8-red)](https://github.com/vladko312/advisories/blob/main/pybars3.md) - RCE via Code Injection in Pybars3 and Pybars4 template engines
 
 [![CVE-2025-25983](https://img.shields.io/badge/CVE--2025--25983-3.4-green)](https://github.com/vladko312/Research_v380_IP_camera/blob/main/CVE-2025-25983.md) - QR-based device sharing credentials leak in v380 Pro IP camera app
 
