@@ -17,7 +17,9 @@ I create pentest tools and CTF tasks.
 
 [![SSTImap Extra Plugins](https://img.shields.io/badge/SSTImap%20Extras-v1.3-green.svg?logo=github)](https://github.com/vladko312/extras) - Situational extra plugins for SSTImap
 
-[![FlaskProx](https://img.shields.io/badge/FlaskProx-v1.0-green.svg?logo=github)](https://github.com/vladko312/FlaskProx) - A simple transparent HTTP proxy using Flask
+[![SSTImap Payload Highlighter](https://img.shields.io/badge/SSTImap%20Payload%20Highlighter-v1.0-green.svg?logo=github)](https://github.com/vladko312/SSTImapHighlighter) - PyCharm plugin to highlight SSTImap payload syntax
+
+[![FlaskProx](https://img.shields.io/badge/FlaskProx-v1.0-yellow.svg?logo=github)](https://github.com/vladko312/FlaskProx) - A simple transparent HTTP proxy using Flask
 
 # My research
 
