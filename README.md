@@ -23,7 +23,7 @@ I create pentest tools and CTF tasks.
 
 # My research
 
-[![CVE-2026-46633](https://img.shields.io/badge/CVE--2026--46633-v1.0-purple)](https://gist.github.com/vladko312/39507beaa58eacf3b62e6a6e6cd69128) - Writeup about developing payloads for CVE-2026-46633
+[![CVE-2026-46633](https://img.shields.io/badge/CVE--2026--46633-v1.0-purple)](https://gist.github.com/vladko312/d61b950f168c791db4786b83dc7a81e6) - Writeup about developing payloads for CVE-2026-46633
 
 [![Logic-less Assumptions](https://img.shields.io/badge/Logic--less%20Assumptions-v1.0-blue)](https://github.com/vladko312/) - Looking for RCE in Safe Template Engines (details will be published later)
 
